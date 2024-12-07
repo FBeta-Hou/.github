@@ -29,10 +29,11 @@ Một trong những lợi ích lớn của LCDP (Low-Code Development Platforms)
 - Cung cấp thông tin về các tổ chức cứu trợ và gói hỗ trợ.
 - Hướng dẫn liên hệ và nhận cứu trợ.
 
-## Lợi ích:
-- Cung cấp thông tin nhanh chóng và chính xác trong tình huống khẩn cấp.
-- Kết nối cộng đồng và hỗ trợ kịp thời.
-- Dễ sử dụng, tự động cập nhật và hỗ trợ đa nền tảng.
+## Công nghệ 
+- **Nền tảng phát triển:** Budibase
+- **Hệ thống bản đồ:** GoongJs
+- **Thông báo khẩn:**
+- **Cơ sở dữ liệu**: BudibaseDB, MongoDB
 # Tổng quan hệ thống 
 # Cấu trúc project 
 ## Repo ...: 
