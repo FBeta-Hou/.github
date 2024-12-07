@@ -43,7 +43,7 @@ Một trong những lợi ích lớn của LCDP (Low-Code Development Platforms)
 # Hướng dẫn cài đặt 
 # Hướng dẫn sử dụng 
 # 🙌 Đóng góp cho dự án
-Nếu bạn muốn đóng góp cho dự án, hãy đọc [CONTRIBUTING.md](.github/CONTRIBUTING.md) để biết thêm chi tiết.
+Nếu bạn muốn đóng góp cho dự án, hãy đọc [CONTRIBUTING.md](https://github.com/FBeta-Hou/.github/blob/main/CONTRIBUTING.md) để biết thêm chi tiết.
 
 Mọi đóng góp của các bạn đều được trân trọng, đừng ngần ngại gửi pull request cho dự án.
 # Liên hệ 
