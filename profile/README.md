@@ -51,7 +51,7 @@ Mọi đóng góp của các bạn đều được trân trọng, đừng ngần
 -   Lê Cát Khánh: 22a1001d0168@students.hou.edu.vn
 -   Tống Tâm Xuân: 22a1001d0378@students.hou.edu.vn
 # 📝 License 
-This project is licensed under the terms of the [GPL V3](https://github.com/FBeta-Hou/.github/blob/main/LICENSE) license.
+This project is licensed under the terms of the [GNU V3](https://github.com/FBeta-Hou/.github/blob/main/LICENSE) license.
 <!--
 
 **Here are some ideas to get you started:**
