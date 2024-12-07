@@ -5,7 +5,7 @@ Có nhiều cách để bạn có thể đóng góp cho dự án. Bên dưới l
 
 Fork dự án này về, thay đổi đoạn mã và tạo pull request cho chúng tôi
 
-Đảm bảo rằng bạn tuân theo hướng dẫn của [pull request template](./pull_request_template.md).
+Đảm bảo rằng bạn tuân theo hướng dẫn của [pull request template](https://github.com/FBeta-Hou/.github/blob/main/pull_request_template.md).
 
 ## Submit bug reports or feature requests
 
