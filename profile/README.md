@@ -34,15 +34,24 @@ Một trong những lợi ích lớn của LCDP (Low-Code Development Platforms)
 - **Hệ thống bản đồ:** GoongJs
 - **Thông báo khẩn:**
 - **Cơ sở dữ liệu**: BudibaseDB, MongoDB
-# Tổng quan hệ thống 
+## Lợi ích dự kiến 
+- Nâng cao khả năng ứng phó nhanh chóng, giảm thiểu thiệt hại từ thiên tai.
+- Kết nối cộng đồng và các tổ chức cứu trợ hiệu quả hơn.
+- Tăng cường minh bạch trong quản lý và phân phối cứu trợ.
 # Cấu trúc project 
 ## Repo ...: 
 # Hướng dẫn cài đặt 
 # Hướng dẫn sử dụng 
 # 🙌 Đóng góp cho dự án
-# Liên hệ 
-# 📝 License 
+Nếu bạn muốn đóng góp cho dự án, hãy đọc [CONTRIBUTING.md](.github/CONTRIBUTING.md) để biết thêm chi tiết.
 
+Mọi đóng góp của các bạn đều được trân trọng, đừng ngần ngại gửi pull request cho dự án.
+# Liên hệ 
+-   Nguyễn Hồng Ánh: 22a1001d0029@students.hou.edu.vn
+-   Lê Cát Khánh: 22a1001d0168@students.hou.edu.vn
+-   Tống Tâm Xuân: 22a1001d0378@students.hou.edu.vn
+# 📝 License 
+This project is licensed under the terms of the [GPL V3](LICENSE) license.
 <!--
 
 **Here are some ideas to get you started:**
