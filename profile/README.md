@@ -5,7 +5,12 @@
 # Giới thiệu - Đặt vấn đề 
 Một trong những lợi ích lớn của LCDP (Low-Code Development Platforms) là khả năng nhanh chóng chuyển đổi từ ý tưởng thành sản phẩm. Điều này đặc biệt quan trọng trong các tình huống khẩn cấp, như đại dịch Covid-19 hay thiên tai do bão lũ, khi thời gian là yếu tố quyết định. Trong các tình huống này, nhu cầu sử dụng công nghệ thông tin để kết nối cộng đồng, cung cấp thông tin nhanh chóng và hỗ trợ các hoạt động ứng phó, khắc phục hậu quả, và hỗ trợ nhân đạo là rất cấp thiết.
 # Giải pháp ứng dụng Budibase phòng chống thiên tai
-
+Mục tiêu ứng dụng: 
+- Cung cấp nền tảng để cập nhật tin tức về tình hình thiên tai.
+- Cung cấp danh sách các khu vực an toàn và điểm di tản để người dân nhanh chóng tìm nơi trú ẩn.
+- Cho phép gửi yêu cầu cứu trợ khẩn cấp.
+- Quản lý danh sách và phân phối nguồn cứu trợ.
+  
 Ứng dụng Budibase sẽ cung cấp các tính năng chính sau:
 
 ### 📰 1. Tin tức phòng chống thiên tai 
