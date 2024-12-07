@@ -1,5 +1,5 @@
 ## CONTRIBUTING - FBetaHou
-Có nhiều cách để bạn có thể đóng góp cho dự án. Bên dưới là một số thứ mà bạn có thể làm và quy trình thực hiện cho mỗi thứ. Mọi đóng góp của bạn đều phải tuân theo quy tắc ứng xử của dự án [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md).
+Có nhiều cách để bạn có thể đóng góp cho dự án. Bên dưới là một số thứ mà bạn có thể làm và quy trình thực hiện cho mỗi thứ. Mọi đóng góp của bạn đều phải tuân theo quy tắc ứng xử của dự án [CODE_OF_CONDUCT.md](https://github.com/FBeta-Hou/.github/blob/main/CODE_OF_CONDUCT.md).
 
 ## Cập nhật code hoặc documents
 
