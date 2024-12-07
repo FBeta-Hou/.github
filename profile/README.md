@@ -8,19 +8,19 @@ Một trong những lợi ích lớn của LCDP (Low-Code Development Platforms)
 
 Ứng dụng Budibase sẽ cung cấp các tính năng chính sau:
 
-## 1. Tin tức phòng chống thiên tai
+### 1. Tin tức phòng chống thiên tai
 - Cập nhật tin tức và cảnh báo thiên tai.
 - Hướng dẫn các biện pháp phòng tránh thiên tai.
 
-## 2. Danh sách khu vực di tản
+### 2. Danh sách khu vực di tản
 - Hiển thị các khu vực di tản an toàn.
 - Cập nhật tình trạng và chỉ dẫn đường đi đến các khu vực di tản.
 
-## 3. Gửi yêu cầu cứu trợ
+### 3. Gửi yêu cầu cứu trợ
 - Cho phép người dân gửi yêu cầu cứu trợ khẩn cấp.
 - Theo dõi tình trạng yêu cầu cứu trợ.
 
-## 4. Danh sách cứu trợ
+### 4. Danh sách cứu trợ
 - Cung cấp thông tin về các tổ chức cứu trợ và gói hỗ trợ.
 - Hướng dẫn liên hệ và nhận cứu trợ.
 
