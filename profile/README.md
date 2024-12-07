@@ -8,7 +8,7 @@ Một trong những lợi ích lớn của LCDP (Low-Code Development Platforms)
 
 Ứng dụng Budibase sẽ cung cấp các tính năng chính sau:
 
-### 1. 📰 Tin tức phòng chống thiên tai
+### 1. Tin tức phòng chống thiên tai 📰
 - Cập nhật tin tức và cảnh báo thiên tai.
 - Hướng dẫn các biện pháp phòng tránh thiên tai.
 
