@@ -32,16 +32,27 @@ Một trong những lợi ích lớn của LCDP (Low-Code Development Platforms)
 ## Công nghệ 
 - **Nền tảng phát triển:** Budibase
 - **Hệ thống bản đồ:** GoongJs
-- **Thông báo khẩn:**
+- **Thông báo khẩn:** Firebase 
 - **Cơ sở dữ liệu**: BudibaseDB, MongoDB
 ## Lợi ích dự kiến 
 - Nâng cao khả năng ứng phó nhanh chóng, giảm thiểu thiệt hại từ thiên tai.
 - Kết nối cộng đồng và các tổ chức cứu trợ hiệu quả hơn.
 - Tăng cường minh bạch trong quản lý và phân phối cứu trợ.
-# Cấu trúc project 
-## Repo ...: 
-# Hướng dẫn cài đặt 
-# Hướng dẫn sử dụng 
+# Cấu trúc project:
+## Giới Thiệu Dự Án
+
+Dự án **FBeta** bao gồm ba repo chính, mỗi repo đảm nhận một vai trò khác nhau trong hệ thống cứu trợ thiên tai:
+
+1. **[FBeta-Services](https://github.com/FBeta-Hou/FBeta-Services)**: Đây là dịch vụ nền tảng cung cấp các chức năng bản đồ và thông báo đẩy. Dịch vụ sử dụng Goong API để hiển thị bản đồ và Firebase Cloud Messaging (FCM) để gửi thông báo đến người dùng về tình hình thiên tai và các khu vực an toàn.
+
+2. **[FBeta-Hou-App](https://github.com/FBeta-Hou/FBeta-Hou-App)**: Repo này chứa ứng dụng người dùng được xây dựng trên nền tảng Budibase, cung cấp giao diện người dùng để xem thông tin về thiên tai, khu vực an toàn, và nhận các thông báo quan trọng từ quản trị viên.
+
+3. **[FBeta-fulldocs](https://github.com/FBeta-Hou/FBeta-fulldocs)**: Repo này lưu trữ tài liệu hướng dẫn sử dụng ứng dụng và các bước triển khai tài liệu lên GitHub Pages. Nó cung cấp tài liệu chi tiết về cách sử dụng ứng dụng, cũng như các hướng dẫn dành cho người dùng và quản trị viên.
+
+### Hướng dẫn cài đặt 
+
+### Hướng dẫn sử dụng 
+
 # 🙌 Đóng góp cho dự án
 Nếu bạn muốn đóng góp cho dự án, hãy đọc [CONTRIBUTING.md](https://github.com/FBeta-Hou/.github/blob/main/CONTRIBUTING.md) để biết thêm chi tiết.
 
