@@ -49,9 +49,9 @@ Dự án **FBeta** bao gồm ba repo chính, mỗi repo đảm nhận một vai 
 
 3. **[FBeta-fulldocs](https://github.com/FBeta-Hou/FBeta-fulldocs)**: Repo này lưu trữ tài liệu hướng dẫn sử dụng ứng dụng và các bước triển khai tài liệu lên GitHub Pages. Nó cung cấp tài liệu chi tiết về cách sử dụng ứng dụng, cũng như các hướng dẫn dành cho người dùng và quản trị viên.
 
-### Hướng dẫn cài đặt 
+[Hướng dẫn cài đặt ](https://fbeta-hou.github.io/FBeta-fulldocs/CachCaiDat/)
 
-### Hướng dẫn sử dụng 
+[Hướng dẫn sử dụng ](https://fbeta-hou.github.io/FBeta-fulldocs/CachSD/)
 
 # 🙌 Đóng góp cho dự án
 Nếu bạn muốn đóng góp cho dự án, hãy đọc [CONTRIBUTING.md](https://github.com/FBeta-Hou/.github/blob/main/CONTRIBUTING.md) để biết thêm chi tiết.
