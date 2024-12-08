@@ -1,6 +1,6 @@
 # Hỗ Trợ Thiên Tai
 
-[![Demo](https://img.shields.io/badge/Demo-2ea44f?style=for-the-badge)](https://fbetahou.budibase.app/app/hotrothientai) [![Documentation](https://img.shields.io/badge/Documentation-blue?style=for-the-badge)]()
+[![Demo](https://img.shields.io/badge/Demo-2ea44f?style=for-the-badge)](https://fbetahou.budibase.app/app/hotrothientai) [![Documentation](https://img.shields.io/badge/Documentation-blue?style=for-the-badge)](https://fbeta-hou.github.io/FBeta-fulldocs/)
 
 # Giới thiệu - Đặt vấn đề 
 Một trong những lợi ích lớn của LCDP (Low-Code Development Platforms) là khả năng nhanh chóng chuyển đổi từ ý tưởng thành sản phẩm. Điều này đặc biệt quan trọng trong các tình huống khẩn cấp, như đại dịch Covid-19 hay thiên tai do bão lũ, khi thời gian là yếu tố quyết định. Trong các tình huống này, nhu cầu sử dụng công nghệ thông tin để kết nối cộng đồng, cung cấp thông tin nhanh chóng và hỗ trợ các hoạt động ứng phó, khắc phục hậu quả, và hỗ trợ nhân đạo là rất cấp thiết.
