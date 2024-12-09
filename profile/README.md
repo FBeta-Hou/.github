@@ -30,6 +30,7 @@ Một trong những lợi ích lớn của LCDP (Low-Code Development Platforms)
 - Hướng dẫn liên hệ và nhận cứu trợ.
 
 ## Công nghệ 
+!(Img)[WEB.png]
 - **Nền tảng phát triển:** Budibase
 - **Hệ thống bản đồ:** GoongJs
 - **Thông báo khẩn:** Firebase 
